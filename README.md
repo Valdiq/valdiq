@@ -1,5 +1,5 @@
-### **<div align="center">Hi, I'm Vlad👾
-I'm studying Computer Science at the Polish-Japanese Academy of Information Technology (PJATK) and am a Back-End Java Developer</div>**  
+### <div align="center">Hi, I'm Vlad👾
+I'm studying Computer Science at the Polish-Japanese Academy of Information Technology (PJATK) and am a Back-End Java Developer</div>  
   
 
 - 💻 I am obsessed with IT  
