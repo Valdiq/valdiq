@@ -1,5 +1,7 @@
-### <div align="center">Hi, I'm Vlad👾
-I'm studying Computer Science at the Polish-Japanese Academy of Information Technology (PJATK) and am a Back-End Java Developer</div>  
+# **<div align="center">Hi, I'm Vlad👾</div>**  
+  
+
+#### **I'm studying Computer Science at the Polish-Japanese Academy of Information Technology (PJATK) and am a Back-End Java Developer**  
   
 
 - 💻 I am obsessed with IT  
@@ -37,4 +39,11 @@ I'm studying Computer Science at the Polish-Japanese Academy of Information Tech
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Valdiq&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br />
