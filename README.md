@@ -7,10 +7,10 @@
 <strong><h4>- 💻 I am obsessed with IT</h4></strong>  
   
 
-- ⚙️ I like to deal with interesting and difficult technologies and projects  
+<strong>- ⚙️ I like to deal with interesting and difficult technologies and projects</strong>   
   
 
-- ❓ The most common question I always ask myself is, "How does it work?"  
+<strong><h4>- ❓ The most common question I always ask myself is, "How does it work?"</h4></strong>   
   
 
 <br/>  
