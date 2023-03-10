@@ -4,7 +4,7 @@
 #### **<h3>I'm studying Computer Science at the Polish-Japanese Academy of Information Technology (PJATK) and am a Back-End Java Developer</h3>**  
 
 <ul>
-<strong><li>💻 I am obsessed with IT</li></strong>
+<li><h4>💻 I am obsessed with IT</h4></li>
   
 <li><strong>⚙️ I like to deal with interesting and difficult technologies and projects</strong></li>   
   
