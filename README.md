@@ -4,11 +4,11 @@
 #### **<h3>I'm studying Computer Science at the Polish-Japanese Academy of Information Technology (PJATK) and am a Back-End Java Developer</h3>**  
 
 <ul>
-<li><h4>💻 I am obsessed with IT</h4></li>
+<li><h3>💻 I am obsessed with IT</h3></li>
   
-<li><strong>⚙️ I like to deal with interesting and difficult technologies and projects</strong></li>   
+<li><h3>⚙️ I like to deal with interesting and difficult technologies and projects</h3></li>   
   
-<li><strong>❓ The most common question I always ask myself is, "How does it work?"</strong></li>   
+<li><h3>❓ The most common question I always ask myself is, "How does it work?"</h3></li>   
   
  </ul>
 <br/>  
