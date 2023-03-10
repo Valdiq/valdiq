@@ -1,10 +1,10 @@
 # **<div align="center">Hi, I'm Vlad👾</div>**  
   
 
-#### **<h4>I'm studying Computer Science at the Polish-Japanese Academy of Information Technology (PJATK) and am a Back-End Java Developer</h4>**  
+#### **<h3>I'm studying Computer Science at the Polish-Japanese Academy of Information Technology (PJATK) and am a Back-End Java Developer</h3>**  
   
 
-- 💻 <strong>I am obsessed with IT</strong>  
+- 💻 <h4><strong>I am obsessed with IT</strong></h4>  
   
 
 - ⚙️ I like to deal with interesting and difficult technologies and projects  
