@@ -18,7 +18,7 @@
 <div align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,maven,git,idea" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,maven,git,idea&theme=dark" />
   </a>
 </p>
 </div>
