@@ -16,14 +16,14 @@
 
 ## My Skill Set  
 <div align="center">
-  <img align="center" alt="Java" width="55px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Java" width="55px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Java" width="55px" style="padding-right:25px;" src="https://skillicons.dev/icons?i=hibernate" />
-  <img align="center" alt="Java" width="55px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Java" width="55px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <img align="center" alt="Java" width="55px" style="padding-right:25px;" src="https://skillicons.dev/icons?i=maven" />
-  <img align="center" alt="Java" width="55px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Java" width="55px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
+  <img align="center" alt="Java" width="62" height="50" style="padding-right:55px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Java" width="62" height="50" style="padding-right:55px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Java" width="62" height="50" style="padding-right:55px;" src="https://skillicons.dev/icons?i=hibernate" />
+  <img align="center" alt="Java" width="62" height="50" style="padding-right:55px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Java" width="62" height="50" style="padding-right:55px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  <img align="center" alt="Java" width="62" height="50" style="padding-right:55px;" src="https://skillicons.dev/icons?i=maven" />
+  <img align="center" alt="Java" width="62" height="50" style="padding-right:55px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Java" width="62" height="50" style="padding-right:55px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
                 
 </div>
 
