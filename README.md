@@ -16,11 +16,15 @@
 
 ## My Skill Set  
 <div align="center">
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,maven,git,idea&theme=dark" />
-  </a>
-</p>
+  <img align="left" alt="Java" with="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="left" alt="Java" with="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="left" alt="Java" with="50px" style="padding-right:15px;" src="https://skillicons.dev/icons?i=hibernate" />
+  <img align="left" alt="Java" with="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="left" alt="Java" with="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  <img align="left" alt="Java" with="50px" style="padding-right:15px;" src="https://skillicons.dev/icons?i=maven" />
+  <img align="left" alt="Java" with="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" alt="Java" with="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
+                
 </div>
 
 <br/>  
