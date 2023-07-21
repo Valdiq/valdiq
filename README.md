@@ -1,7 +1,7 @@
 # **<div align="center">Hi, I'm Vlad👾</div>**  
   
 
-#### **<h3>I'm studying Computer Science at the Polish-Japanese Academy of Information Technology (PJATK) and am a Back-End Java Developer</h3>**  
+#### **<h3>I'm studying Computer Science at the Polish-Japanese Academy of Information Technology (PJATK) and am a Back-End Java Developer at EY</h3>**  
 
 <ul>
 <li><h4>💻 I am obsessed with IT</h3></li>
