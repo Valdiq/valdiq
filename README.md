@@ -1,14 +1,16 @@
 # **<div align="center">Hi, I'm Vlad👾</div>**  
   
 
-#### **<h3>I'm studying Computer Science at the Polish-Japanese Academy of Information Technology (PJATK) and am a Back-End Java Developer at EY</h3>**  
+#### **<h3>I'm Computer Science student and a Back-End Java Developer</h3>**  
 
 <ul>
 <li><h4>💻 I am obsessed with IT</h3></li>
   
-<li><h4>⚙️ I like to deal with interesting and difficult technologies and projects</h4></li>   
+<li><h4>⚙️ I like to deal with interesting and difficult technologies and projects and learn new ones</h4></li>   
   
-<li><h4>❓ The most common question I always ask myself is, "How does it work?"</h4></li>   
+<li><h4>❓ The most common question I always ask myself is, "How does it work?"</h4></li>
+
+<li><h4>💎 I am interesting in astronomy, cars and footbal</h4></li>
   
  </ul>
 <br/>  
