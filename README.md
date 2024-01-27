@@ -1,7 +1,7 @@
 # **<div align="center">Hi, I'm Vlad👾</div>**  
   
 
-#### **<h3>I'm Computer Science student and a Back-End Java Developer</h3>**  
+#### **<div align="center"><h3>I'm Computer Science student and a Back-End Java Developer</h3></div>**  
 
 <ul>
 <li><h4>💻 I am obsessed with IT</h3></li>
