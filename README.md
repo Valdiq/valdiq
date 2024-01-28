@@ -30,7 +30,7 @@
   <img align="center" alt="Maven" width="65" height="53" style="padding-right:60px; margin-bottom: 30px;" src="https://skillicons.dev/icons?i=maven" />
   <img align="center" alt="Swagger" width="65" height="53" style="padding-right:60px; margin-bottom: 30px;" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" />
   <img align="center" alt="Postman" width="65" height="53" style="padding-right:60px; margin-bottom: 30px;" src="https://skillicons.dev/icons?i=postman" />
-  <img align="center" alt="Kafka" width="65" height="53" style="padding-right:60px; margin-bottom: 30px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apachekafka/apachekafka-original.svg" />
+ <!-- <img align="center" alt="Kafka" width="65" height="53" style="padding-right:60px; margin-bottom: 30px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apachekafka/apachekafka-original.svg" /> -->
   <img align="center" alt="Git" width="65" height="53" style="padding-right:60px; margin-bottom: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Docker" width="65" height="53" style="padding-right:60px; margin-bottom: 30px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" />
   <img align="center" alt="Azure" width="65" height="53" style="padding-right:60px; margin-bottom: 30px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg" />
