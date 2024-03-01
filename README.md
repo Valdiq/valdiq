@@ -10,7 +10,7 @@
   
 <li><h4>❓ The most common question I always ask myself is, "How does it work?"</h4></li>
 
-<li><h4>💎 I am interesting in astronomy, cars and footbal</h4></li>
+<li><h4>💎 I am interesting in astronomy, cars and football</h4></li>
   
  </ul>
 <br/>  
