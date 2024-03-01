@@ -6,7 +6,7 @@
 <ul>
 <li><h4>💻 IT is my obsession</h3></li>
   
-<li><h4>⚙️ I like to deal with interesting and difficult technologies and projects and learn new ones</h4></li>   
+  <li><h4>⚙️ I like to deal with fascinating and complex technologies and projects and learn new ones</h4></li>   
   
 <li><h4>❓ The most common question I always ask myself is, "How does it work?"</h4></li>
 
