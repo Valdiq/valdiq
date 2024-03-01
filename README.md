@@ -4,7 +4,7 @@
 #### **<div align="center"><h3>I'm Computer Science student and a Back-End Java Developer</h3></div>**  
 
 <ul>
-<li><h4>💻 I am obsessed with IT</h3></li>
+<li><h4>💻 IT is my obsession</h3></li>
   
 <li><h4>⚙️ I like to deal with interesting and difficult technologies and projects and learn new ones</h4></li>   
   
